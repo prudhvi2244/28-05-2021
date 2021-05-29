@@ -1,9 +1,10 @@
-import Demo10 from "./components/Demo10";
+import Product from "./components/Product";
 
 function App() {
   return (
-    <div className="container">
-      <Demo10 />
+    
+    <div className="container mt-2">
+      <Product/>
     </div>
   );
 }
